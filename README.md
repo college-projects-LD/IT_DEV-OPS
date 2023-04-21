@@ -1,1 +1,2 @@
-# IT_DEV-OPS
+# IT_DEV-OPs
+# Landon Delaney: FlightSim Nerd
